@@ -1,16 +1,22 @@
-### Hi there 👋
+### Marcel Smuts
 
-<!--
-**MarcelSmuts/MarcelSmuts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<code><img width="10%" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></code>
+marcelsmuts@gmial.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech stack
+
+
+
+---
+
+![Marcel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcelSmuts&show_icons=true&include_all_commits=true&count_private=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelSmuts&layout=compact&theme=dark)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcelSmuts&theme=dark" width="48%" >
+
+![trophy](https://github-profile-trophy.vercel.app/?username=MarcelSmuts&theme=onedark)
+
+---
