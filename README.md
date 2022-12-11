@@ -34,6 +34,4 @@ marcelsmuts@gmial.com
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcelSmuts&theme=dark" width="48%" >
 
-![trophy](https://github-profile-trophy.vercel.app/?username=MarcelSmuts&theme=onedark)
-
 ---
