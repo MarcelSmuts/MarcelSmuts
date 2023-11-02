@@ -1,7 +1,7 @@
 ### Marcel Smuts
 
 <code><img width="10%" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></code>
-marcelsmuts@gmial.com
+marcelsmuts@gmail.com
 
 ---
 
